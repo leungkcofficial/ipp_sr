@@ -5,12 +5,12 @@ This repository contains the source code and analyses for a systematic review ti
 ### Contents
 
 1. **Data Analysis Notebooks**:
-    - `Aranda2000_subgp_cx.ipynb`: Analysis related to the Aranda 2000 study focusing on sub-group 'cx'.
-    - `Betancourt2023_subgp_cs.ipynb`: Analysis of the Betancourt 2023 study with a focus on sub-group 'cs'.
-    - `Castellanos2017_subgp_ipp.ipynb`: Analysis for the Castellanos 2017 study emphasizing the IPP sub-group.
-    - `cx_analysis.ipynb`: Comprehensive analysis related to the 'cx' category.
-    - `meta_analysis.ipynb`: Meta-analysis for the systematic review.
-    - `Outerelo2014_subgp_cx.ipynb`: Analysis for the Outerelo 2014 study with 'cx' sub-group details.
+    - `Aranda2000_subgp_cx.ipynb`: Calculations using data provided in the study by Aranda et al for sub-group analysis.
+    - `Betancourt2023_subgp_cx.ipynb`: Calculations using data provided in the study by Betancourt et al 2023 study for sub-group analysis.
+    - `Castellanos2017_subgp_ipp.ipynb`: Calculations using data provided in the study by Castellanos et al study for sub-group analysis.
+    - `cx_analysis.ipynb`: Comprehensive analysis related to the non-infective mechanical complications of PD.
+    - `meta_analysis.ipynb`: Main Meta-analysis for all studies included.
+    - `Outerelo2014_subgp_cx.ipynb`: Calculations using data provided in the study by Outerelo et al study for sub-group analysis.
     - `subgroup_analysis.ipynb`: Detailed subgroup analysis.
 
 ### Getting Started
