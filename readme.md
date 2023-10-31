@@ -12,12 +12,13 @@ This repository contains the source code and analyses for a systematic review ti
     - `meta_analysis.ipynb`: Main Meta-analysis for all studies included.
     - `Outerelo2014_subgp_cx.ipynb`: Calculations using data provided in the study by Outerelo et al study for sub-group analysis.
     - `subgroup_analysis.ipynb`: Detailed subgroup analysis.
+    - `publication_bias.ipynb`: Calculations for assessing publication bias
 
 ### Getting Started
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your_github_username/your_repository_name.git
+   git clone https://github.com/leungkcofficial/ipp_sr.git
    ```
    
 2. **Navigate to the Directory**:
